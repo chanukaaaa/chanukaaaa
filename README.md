@@ -1,7 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f)](https://github.com/chanukaaaa)
+<div id="header" align="center">
+  <img src=https://www.lambdatest.com/resources/images/news24.gif/>
+</div>
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
 <h3 align="center">An IT undergraduate with a passion for technology</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+page.;Let's+explore+about+me+and+my+works" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanukaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="chanukaaaa" /> </p>
 
