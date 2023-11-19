@@ -1,6 +1,7 @@
-[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i35b3janoswl2klsnaenezchj9lgendknuee2fwc&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://github.com/chanukaaaa)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/chanukaaaa)
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
 <h3 align="center">An IT undergraduate with a passion for technology</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh5ajlpdHYwdG5mdDA1ZnF6b2VncGR6NGR1OGxmMmc1bWx4c2VyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanukaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="chanukaaaa" /> </p>
 
@@ -28,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanukaaaa&show_icons=true&locale=en" alt="chanukaaaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanukaaaa&" alt="chanukaaaa" /></p>
+
 
