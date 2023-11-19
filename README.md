@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanukaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="chanukaaaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukaaaa" alt="chanukaaaa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/not_chanuka" target="blank"><img src="https://img.shields.io/twitter/follow/not_chanuka?logo=twitter&style=for-the-badge" alt="not_chanuka" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://chanukaaaa.github.io/](https://chanukaaaa.github.io/)
 
 - 📫 How to reach me **chanukasweerasinghe@gmail.com**
