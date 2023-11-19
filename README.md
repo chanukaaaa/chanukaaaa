@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47ilg15irn3421jx1vq6kkzciq5dorqrifn03wvydq&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://github.com/chanukaaaa)
+[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i35b3janoswl2klsnaenezchj9lgendknuee2fwc&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://github.com/chanukaaaa)
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
 <h3 align="center">An IT undergraduate with a passion for technology</h3>
 
