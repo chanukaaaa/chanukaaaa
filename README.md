@@ -1,4 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzgy5GT-Qhjwm4mc5l-TxGTLL_0AwotOO1Ai9X_wW3tGe2HSAFqWk1YNwZWmYVYQFUOGo&usqp=CAU))](https://github.com/chanukaaaa)
+[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f))](https://github.com/chanukaaaa)
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
 <h3 align="center">An IT undergraduate with a passion for technology</h3>
 
