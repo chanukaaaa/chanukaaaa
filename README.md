@@ -29,4 +29,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanukaaaa&" alt="chanukaaaa" /></p>
 
+[![Chanuka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chanukaaaa&&theme=xcode)](https://github.com/chanukaaaa)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanukaaaa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chanukaaaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanukaaaa&show_icons=true&locale=en&theme=tokyonight" alt="chanukaaaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanukaaaa&&theme=tokyonight" alt="chanukaaaa" /></p>
 
